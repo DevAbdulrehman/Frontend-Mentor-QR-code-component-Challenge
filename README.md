@@ -14,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/DevAbdulrehman/qr-code-component-main/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-qr-code-component-challenge-hhmXw3hOJQ)
 - Live Site URL: [Add live site URL here](https://qrcode-frontend-mentor-project.netlify.app)
 ## Author
 - Frontend Mentor - [@DevAbdulrehman](https://www.frontendmentor.io/profile/DevAbdulrehman)
